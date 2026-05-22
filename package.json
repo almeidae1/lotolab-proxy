@@ -1,0 +1,12 @@
+{
+  "name": "lotolab-proxy",
+  "version": "1.0.0",
+  "description": "Proxy CORS para LotoLab — resultados Lotofácil",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
